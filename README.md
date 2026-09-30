@@ -84,4 +84,4 @@ Other scripts: `npm run build` (type-check + production build), `npm run preview
 
 ## About
 
-Built by [Lucas Bragança Gonçalves](https://www.linkedin.com/in/lucas-braganca-goncalves98), planned and developed with Claude Code.
+Built by [Lucas Bragança Gonçalves](https://lucasbragancadev.vercel.app) ([LinkedIn](https://www.linkedin.com/in/lucas-braganca-goncalves98)), planned and developed with Claude Code.
